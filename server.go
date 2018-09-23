@@ -94,7 +94,7 @@ var homeTemplate = template.Must(template.New("").Parse(`
               <option value="610">10 min</option>
               <option value="910">15 min</option>
               <option value="1810">30 min</option>
-              <option value="4610">60 min</option>
+              <option value="3610">60 min</option>
             </select>
 
           <button type="button" class="btn btn-lg btn-primary" id="start">
