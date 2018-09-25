@@ -1,5 +1,7 @@
 # Idle Timeout Tester
 
+## Browser's TCP keepalive feature makes this tester obsolete
+
 Online tester for idle TCP connection timeouts. Made for detecting if a
 firewall or something else drops idle TCP connections.
 
